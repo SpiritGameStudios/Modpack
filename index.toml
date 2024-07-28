@@ -1777,7 +1777,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4958cb15fa853713ecfd90c04b2036cbc09a82053a686caf4fbbaac37b5ff706"
+hash = "eafc63a7e1534f1ac94aed6592bcb1da02b9ad11aca12f354d04e96f9b9af850"
 metafile = true
 
 [[files]]
@@ -1842,7 +1842,7 @@ metafile = true
 
 [[files]]
 file = "mods/hollow.pw.toml"
-hash = "48436e784a712392b87d6f1e28ffbdd911c40fb7e86b251a3344ee93892a76d3"
+hash = "3c9493bde129df3a7f79ad6e7187dbe349332d8f665536d95d666529bc31f98d"
 metafile = true
 
 [[files]]
