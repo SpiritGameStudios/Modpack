@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/publish.yml"
+hash = "8b73b04d480e6c986d5b5659b3ea0a793024685d4b3c08ba9b1b6bf635cf4c77"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "99736519f71e144b3f651fddf8618b58ca8b8b8678e1b9157c6a9a648a0797e7"
+
+[[files]]
 file = "config/quickerconnectbutton.json5"
 hash = "6a76f9c71e31e3f7b66e60717564b523c95f027ec73c34863915682261116ccd"
 
@@ -2004,7 +2012,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
 metafile = true
 
 [[files]]
