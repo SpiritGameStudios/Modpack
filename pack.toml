@@ -1,12 +1,12 @@
 name = "Spirit SMP"
 author = "Spirit Studios"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "364bfdf287862fbca6f5f031e52fd4700b196286f7ccfc257893a6ff2b935854"
+hash = "720f35188d1d087352bf43da6c31597209348520ed0f44b535960640e597e491"
 
 [versions]
 fabric = "0.15.11"

@@ -1717,6 +1717,10 @@ file = "datapacks/VanillaTweaksRecipes/pack.mcmeta"
 hash = "68d648a3c3294af84e20a1b72c21cd540f299bdd91b61e8b44a2032a4a666da3"
 
 [[files]]
+file = "mods/SpiritSMP-Extras.jar"
+hash = "86ee84dad3f071a9920788dc69c0a3972260fb30bdf0d14e0e5ea5e5bb6a39bf"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "38326d9d24fe7e5829d4a5b3703c66165d8bc641d2a5f2a52c9d9001424487d3"
 metafile = true
@@ -1989,11 +1993,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "bb544f8bebdf2ad9ee4f799f2a59c90cd07219578a47499ee60c02752d70cfcf"
-metafile = true
-
-[[files]]
-file = "mods/utility-belt.pw.toml"
-hash = "e6ea01529560b30a18750904cce255d6b1d34f2ae7e4ae392e60c67e11d0c080"
 metafile = true
 
 [[files]]
