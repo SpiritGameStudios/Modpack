@@ -1806,11 +1806,6 @@ hash = "6caaedd656c7588eecb3aab2c3fe9e22fdf2d442fb469a9c75518f381f3c5524"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "f0ab69070fefbc85039133adf4015dc0a403a45d5c00713d6200b0943a310398"
-metafile = true
-
-[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "66d827ba2c949a101cb34bfb6bc9db3faaca807f123b2ebfd04863ce36344e60"
 metafile = true
@@ -1877,7 +1872,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5861d3e2260c21ab0ebfa87d5494742b51bb4addeefd2f1243908ce6636bddaa"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -1933,6 +1928,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "23e13c735cde71527fdf7fcc0845ca2a096ce4b899c6a22f32ef91a3afa68316"
 metafile = true
 
 [[files]]
