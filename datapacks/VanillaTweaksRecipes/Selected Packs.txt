@@ -1,0 +1,19 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.21
+Packs:
+	unpackable ice
+	unpackable nether wart
+	unpackable wool
+	craftable horse armor
+	craftable name tags
+	craftable bundles leather
+	back to blocks
+	dropper to dispenser
+	rotten flesh to leather
+	copper powered rails
+	charcoal to black dye
+	coal to black dye
+	universal dyeing
+	straight to shapeless
+	blackstone cobblestone
+	powder to glass

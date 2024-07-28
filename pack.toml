@@ -1,0 +1,13 @@
+name = "Spirit SMP"
+author = "Spirit Studios"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f024057618f62552465c03b6749ae46f34cfa5d3bd90c81375e3175b7db439ee"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
