@@ -1,6 +1,8 @@
 .git/**
 .gitattributes
-.gitignoe
+.gitignore
+
+.github/*
 
 *.zip
 *.mrpack

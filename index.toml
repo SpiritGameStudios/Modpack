@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/publish.yml"
-hash = "8b73b04d480e6c986d5b5659b3ea0a793024685d4b3c08ba9b1b6bf635cf4c77"
-
-[[files]]
 file = "config/carpet/default_carpet.conf"
 hash = "99736519f71e144b3f651fddf8618b58ca8b8b8678e1b9157c6a9a648a0797e7"
 
