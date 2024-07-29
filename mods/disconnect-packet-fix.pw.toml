@@ -1,0 +1,13 @@
+name = "Disconnect Packet Fix"
+filename = "disconnect-packet-fix-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rd9rKuJT/versions/rDFCbEzc/disconnect-packet-fix-1.0.0.jar"
+hash-format = "sha1"
+hash = "933d3fe10e574df4fb324137e9a50505a7612d46"
+
+[update]
+[update.modrinth]
+mod-id = "rd9rKuJT"
+version = "rDFCbEzc"

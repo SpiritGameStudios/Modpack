@@ -1,0 +1,25 @@
+{
+  "owner": {
+    "level": 100,
+    "overrides": {
+      "name_decoration": {
+        "style": ["#8400fd"]
+      },
+      "permission_level": 4,
+      "command_feedback": true,
+      "commands": {
+        ".*": "allow"
+      }
+    }
+  },
+  "everyone": {
+    "overrides": {
+      "commands": {
+        "help": "allow",
+        "seed": "allow",
+
+        ".*": "deny"
+      }
+    }
+  }
+}

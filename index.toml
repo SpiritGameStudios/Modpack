@@ -13,6 +13,22 @@ file = "config/quickrightclick.json5"
 hash = "8f41b23cbca6300be2a41eed168e266b690926b4c21ae94eda7f5cb5895377e3"
 
 [[files]]
+file = "config/roles.json"
+hash = "8862f5952a13e3c5f6c14ae660397b561f23d0a1b888229df9e54c4ca8eee6b0"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "7e46bbcc82e034d4a4fa30d199bcc3e0ff12533576fc77f4c59755ff6be85fc6"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "8a0e0cc2477fd79299b76311aab71b0a7356102d7a519ecbcb48e7a4e6429963"
+
+[[files]]
+file = "config/treeharvester.json5"
+hash = "3c6b4ee2c973c2f71fffceef8ea135d3d123b6770ccfc4628f2166ecadc60fab"
+
+[[files]]
 file = "datapacks/VanillaTweaksRecipes/Selected Packs.txt"
 hash = "933765143e23f231ce90aa3279ee9279fe73a3ec96c5263083afc5bef8f7db1b"
 
@@ -1721,11 +1737,6 @@ file = "mods/SpiritSMP-Extras.jar"
 hash = "feac828b35f93dc63e6fb801439dfa3503e147b4b71015b5bcda78f8e9afdb6b"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "38326d9d24fe7e5829d4a5b3703c66165d8bc641d2a5f2a52c9d9001424487d3"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
@@ -1733,6 +1744,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0d8ef9622d79bb6da1290c564b11800992ea360cfaaa02783ddf0f687739a90c"
+metafile = true
+
+[[files]]
+file = "mods/bamboo-everything.pw.toml"
+hash = "4ebac7581d5216b36999b40d976f60bc6577c48d57322a97c582d56ca8f0bf64"
 metafile = true
 
 [[files]]
@@ -1771,6 +1787,16 @@ hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "e5a9f96b94726f4585cf91fa0ddbd81e353f85f6f6723a2b4f01bf05c8dfd4a8"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7ed2158d2715c74dc93716079c029524ffc36680358d0a79757ab1052a04af6c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
@@ -1791,8 +1817,18 @@ hash = "314cd3d09bb98a39542551090e3daefd5fa3cfc184bcd134cf4c8a820e804281"
 metafile = true
 
 [[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "145f4506893619ac0e8d1d9b198b6a1a0c9c84f3621acb6060f4c1ad8a09be4f"
+metafile = true
+
+[[files]]
 file = "mods/dispenser-configurator.pw.toml"
 hash = "594315b180039ba7208e55ce9280ec8f3a89db2179c0ccda83b6da817ee9a1fa"
+metafile = true
+
+[[files]]
+file = "mods/displaycase.pw.toml"
+hash = "c5d4e025c862cbf8f57aecfccfc295d69ee0ee971d56fa2e7494e61734edb0d6"
 metafile = true
 
 [[files]]
@@ -1851,8 +1887,8 @@ hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "ae2fd4dfd7f7fac82fc280615550a44389ecaf7a21a9f9289abbe771e5764aec"
+file = "mods/itemflexer.pw.toml"
+hash = "beac43deb7c499cb05206e665ef70b9b6a595da2ba9cd508cfe9777e1a67213a"
 metafile = true
 
 [[files]]
@@ -1906,6 +1942,11 @@ hash = "d41097a22b91bb1af8014760f9f518daf10225e274c5b5d60a73d560447b9576"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
@@ -1948,6 +1989,11 @@ metafile = true
 [[files]]
 file = "mods/rounded_mod.pw.toml"
 hash = "2861a55461a22a1ce9e33800a18bc761f1ef9fdb597accdc5d3810b8a4b08f34"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
 
 [[files]]
@@ -1998,6 +2044,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "e6b4b95aa2f044dd01fcf759be0328e2a84d0a22d432036fca491c391ae08498"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-shutters.pw.toml"
+hash = "294b8982fe937123b7fb844ad0f1d064cf0fcdde57dad9d232666397ab753ffa"
 metafile = true
 
 [[files]]
