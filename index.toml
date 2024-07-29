@@ -1762,11 +1762,6 @@ hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
 
 [[files]]
-file = "mods/better-fabric-console.pw.toml"
-hash = "b70e7556a3ad747a4d06598e0e32255b84cd97dc15daaf7b2086ed481f84a2eb"
-metafile = true
-
-[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
 metafile = true
@@ -1899,11 +1894,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
 metafile = true
 
 [[files]]
