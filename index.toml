@@ -2031,11 +2031,6 @@ hash = "bec62b64e255b592feb9b7d1e88e4eb535836a37f22a6ae97fe40842275a3814"
 metafile = true
 
 [[files]]
-file = "mods/trash-cans.pw.toml"
-hash = "bb544f8bebdf2ad9ee4f799f2a59c90cd07219578a47499ee60c02752d70cfcf"
-metafile = true
-
-[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "e6b4b95aa2f044dd01fcf759be0328e2a84d0a22d432036fca491c391ae08498"
 metafile = true
