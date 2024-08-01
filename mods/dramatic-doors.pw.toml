@@ -1,0 +1,13 @@
+name = "Dramatic Doors"
+filename = "DramaticDoors-NeoQuiFab-1.21-3.2.4_1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aQ7h7gal/versions/9LeXJLET/DramaticDoors-NeoQuiFab-1.21-3.2.4_1.jar"
+hash-format = "sha1"
+hash = "95322e49565511b2f685edbf651c1bf9a820da33"
+
+[update]
+[update.modrinth]
+mod-id = "aQ7h7gal"
+version = "9LeXJLET"

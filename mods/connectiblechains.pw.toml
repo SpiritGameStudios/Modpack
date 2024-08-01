@@ -1,0 +1,13 @@
+name = "Connectible Chains [Fabric]"
+filename = "connectiblechains-2.4.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ykSfIgTw/versions/cb9rzzkK/connectiblechains-2.4.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "f4093d1e834f8e6102c0604b5e4f72997b77d352"
+
+[update]
+[update.modrinth]
+mod-id = "ykSfIgTw"
+version = "cb9rzzkK"

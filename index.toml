@@ -1741,6 +1741,11 @@ file = "mods/SpiritSMP-Extras.jar"
 hash = "feac828b35f93dc63e6fb801439dfa3503e147b4b71015b5bcda78f8e9afdb6b"
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
@@ -1748,11 +1753,6 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0d8ef9622d79bb6da1290c564b11800992ea360cfaaa02783ddf0f687739a90c"
-metafile = true
-
-[[files]]
-file = "mods/bamboo-everything.pw.toml"
-hash = "4ebac7581d5216b36999b40d976f60bc6577c48d57322a97c582d56ca8f0bf64"
 metafile = true
 
 [[files]]
@@ -1766,6 +1766,16 @@ hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "6b961f375c93f62fc3ff6f586729783c8752f9db5120bfc2bbe5dbeb61865329"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "88f0a020197fb516f215e798ab688990030b261d76287b7d34ed8ffa8bc7fd2a"
+metafile = true
+
+[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
 metafile = true
@@ -1776,6 +1786,11 @@ hash = "afff5701875d20f3ee8ea20feaf6ee33496a74b1615a43b46ff085e1512ef945"
 metafile = true
 
 [[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "5e00801c2068dff589d7c0a3f90a50bf7491c48f3f8a99219d0cd7a957e610e8"
+metafile = true
+
+[[files]]
 file = "mods/bundle-jumble.pw.toml"
 hash = "006351c0c9a9ff0ea2b4b3fdc3bd14344fc6247b68b884aba7916a5356ded6e2"
 metafile = true
@@ -1783,6 +1798,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "48c6a4e310601532ac6a9e7f2f814128f75af9a541aee5a6e39d2d5475d967af"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "67b3416cefb139b61c91c659c249973ee899c73801ec6c54922e0cc955830db2"
 metafile = true
 
 [[files]]
@@ -1801,6 +1821,11 @@ hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "e6aa1f8d7cf15a4c8f67be5a1be24498564999206e787f990c5c44f35848ef4f"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "7dc13e9426aab2f8409816c1685b7251751c5d0516a1ae8ae3ef46dd1302076b"
 metafile = true
@@ -1808,6 +1833,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "0d7fb8cd97b8e670839ea475b63df903039890bddfb14b2c6ddcf0a1980059af"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "70a863bf0fed7bda0d92161d63d90c450f7174643edda06ea3eff9d9deb4d6a8"
 metafile = true
 
 [[files]]
@@ -1828,6 +1858,11 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "c5d4e025c862cbf8f57aecfccfc295d69ee0ee971d56fa2e7494e61734edb0d6"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "6e33f2a6ee196e59dfcbd51a4bf364c15f095a2c30a80b115bfce23d2aa1a2fb"
 metafile = true
 
 [[files]]
@@ -1896,6 +1931,16 @@ hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "e9662ef699ca9b8d68e777fd38fa1217e2bdac0aa2da2eba104de296890622ce"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
@@ -1931,6 +1976,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "d41097a22b91bb1af8014760f9f518daf10225e274c5b5d60a73d560447b9576"
 metafile = true
@@ -1948,6 +1998,11 @@ metafile = true
 [[files]]
 file = "mods/player-roles.pw.toml"
 hash = "c9e1101c6562ace7c256616e99f8ae17ef3f592a718e9f130e62c39bc3248178"
+metafile = true
+
+[[files]]
+file = "mods/plushables-lite.pw.toml"
+hash = "2711fdcccb997173c9e166156a6aa301cab357c4789764a6680758eca567bb50"
 metafile = true
 
 [[files]]
