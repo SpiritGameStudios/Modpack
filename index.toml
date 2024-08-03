@@ -2006,6 +2006,11 @@ hash = "2711fdcccb997173c9e166156a6aa301cab357c4789764a6680758eca567bb50"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "7b56fbdb3ecf1e6c9118cb5293fabb0e982a2b08658200b2890085542ecafe37"
+metafile = true
+
+[[files]]
 file = "mods/quick-right-click.pw.toml"
 hash = "40fca51e8dbe21d62980adab532284ee9424f4ac43e276dc51fb2ed37115281e"
 metafile = true
