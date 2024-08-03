@@ -2091,6 +2091,11 @@ hash = "e6b4b95aa2f044dd01fcf759be0328e2a84d0a22d432036fca491c391ae08498"
 metafile = true
 
 [[files]]
+file = "mods/true-ending.pw.toml"
+hash = "cac4499e9a26fd6d786a6ba9df7a3d3ad32130a7bd80d5ba0963d2baf805fb21"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-shutters.pw.toml"
 hash = "294b8982fe937123b7fb844ad0f1d064cf0fcdde57dad9d232666397ab753ffa"
 metafile = true
