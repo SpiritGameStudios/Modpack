@@ -1796,10 +1796,6 @@ hash = "006351c0c9a9ff0ea2b4b3fdc3bd14344fc6247b68b884aba7916a5356ded6e2"
 metafile = true
 
 [[files]]
-file = "mods/carpet-crashfix.jar"
-hash = "11d543f86d818e6c1c5f8f8585f8ecc0019b31685d6d3fab9467946076e8bbf5"
-
-[[files]]
 file = "mods/chalk.pw.toml"
 hash = "67b3416cefb139b61c91c659c249973ee899c73801ec6c54922e0cc955830db2"
 metafile = true
