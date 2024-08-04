@@ -1936,6 +1936,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/leash-villager.pw.toml"
+hash = "a6f9fe0b7b272a1b7465f4ceed6c1741e2da444f166d17bbb5531afa7d856827"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
@@ -2113,6 +2118,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
+metafile = true
+
+[[files]]
+file = "mods/zombify.pw.toml"
+hash = "95e6445acecb4fd470a5688db2eba029251568bf8f63ebec9cea6dda62bffe2e"
 metafile = true
 
 [[files]]
