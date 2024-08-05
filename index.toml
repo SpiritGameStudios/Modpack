@@ -5,6 +5,10 @@ file = "config/carpet/default_carpet.conf"
 hash = "99736519f71e144b3f651fddf8618b58ca8b8b8678e1b9157c6a9a648a0797e7"
 
 [[files]]
+file = "config/charm-common.toml"
+hash = "63ca0e9460f463c20b368c2036d4c8f025ac9ee1019dc729ed6456ebd23efe88"
+
+[[files]]
 file = "config/quickerconnectbutton.json5"
 hash = "6a76f9c71e31e3f7b66e60717564b523c95f027ec73c34863915682261116ccd"
 
