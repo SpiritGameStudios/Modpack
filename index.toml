@@ -1738,7 +1738,7 @@ hash = "68d648a3c3294af84e20a1b72c21cd540f299bdd91b61e8b44a2032a4a666da3"
 
 [[files]]
 file = "mods/Overflow.jar"
-hash = "49b67e8b329c5a878b964581ba169ae4dd07b72d9dd5e89e9be322dfd10b2b27"
+hash = "7b8a9b4d9f1f8c5e6c73277202c584f7ff0b5c96f848d9506bdb295010cab74e"
 
 [[files]]
 file = "mods/SpiritSMP-Extras.jar"
@@ -2073,6 +2073,10 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
 metafile = true
+
+[[files]]
+file = "mods/specter-api-0.0.4-b.jar"
+hash = "2b590e9c2ca52503bbdb6db3386015b8410277cf5c693f45f7e37215b57168e0"
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
