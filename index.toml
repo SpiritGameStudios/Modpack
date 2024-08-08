@@ -1811,7 +1811,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e5d13ac5dd882ae1fc805f9ace675ed260f1c311adb0a961148c9feece5cd6c6"
+hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
 metafile = true
 
 [[files]]
@@ -1821,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "e6aa1f8d7cf15a4c8f67be5a1be24498564999206e787f990c5c44f35848ef4f"
+hash = "ec5c86ca8270f882ea3ff00f88697ce2e210e6105d1cf61806f512abe5ccef53"
 metafile = true
 
 [[files]]
@@ -1841,7 +1841,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "314cd3d09bb98a39542551090e3daefd5fa3cfc184bcd134cf4c8a820e804281"
+hash = "ed3d2b9957ff1b877d4dfc68209f6032238ce1eba6e85a3129009c92b0801e07"
 metafile = true
 
 [[files]]
@@ -1886,12 +1886,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -1926,7 +1926,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
+hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
 metafile = true
 
 [[files]]
@@ -2056,12 +2056,12 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6337ceb74ee951a937b2768544a1bf11812aa92628a81b9a13e66c687f9853fb"
+hash = "0a80692da4b6afda0ecb78d0fbddcbbdf22c87b969673a46b8df7abec88377dc"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
+hash = "2b74406b327af4f30cd7c27f307550b3ccf54b20e04b5534d1558e8f0676f0dc"
 metafile = true
 
 [[files]]
