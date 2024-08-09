@@ -2065,6 +2065,11 @@ hash = "0a80692da4b6afda0ecb78d0fbddcbbdf22c87b969673a46b8df7abec88377dc"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "335717664876d81273f49ae98f5ac9913c58dbc193a4159cf6c2f7cb79178236"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2b74406b327af4f30cd7c27f307550b3ccf54b20e04b5534d1558e8f0676f0dc"
 metafile = true
