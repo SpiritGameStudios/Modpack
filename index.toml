@@ -1800,11 +1800,6 @@ hash = "006351c0c9a9ff0ea2b4b3fdc3bd14344fc6247b68b884aba7916a5356ded6e2"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "d753b022376600aa0b1c6d5f218f89a4bf56e54d8b6d80bd9d27c4a56e0efaae"
-metafile = true
-
-[[files]]
 file = "mods/chalk.pw.toml"
 hash = "67b3416cefb139b61c91c659c249973ee899c73801ec6c54922e0cc955830db2"
 metafile = true
