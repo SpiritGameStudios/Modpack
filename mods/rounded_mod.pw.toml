@@ -1,13 +1,13 @@
 name = "Rounded"
-filename = "rounded-1.0.4-1.21.jar"
+filename = "rounded-1.1.0-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOxEDNxy/versions/ES7xZiOZ/rounded-1.0.4-1.21.jar"
+url = "https://cdn.modrinth.com/data/mOxEDNxy/versions/SajRwFiX/rounded-1.1.0-1.21.jar"
 hash-format = "sha1"
-hash = "e08f45316f4868785dad8d73747d946be49a3e1a"
+hash = "78e87d91bb82040a5c05765f14899c2696a1dfdd"
 
 [update]
 [update.modrinth]
 mod-id = "mOxEDNxy"
-version = "ES7xZiOZ"
+version = "SajRwFiX"

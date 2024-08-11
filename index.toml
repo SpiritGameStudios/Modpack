@@ -1738,7 +1738,7 @@ hash = "68d648a3c3294af84e20a1b72c21cd540f299bdd91b61e8b44a2032a4a666da3"
 
 [[files]]
 file = "mods/Overflow.jar"
-hash = "7b8a9b4d9f1f8c5e6c73277202c584f7ff0b5c96f848d9506bdb295010cab74e"
+hash = "dd77a70a5ad17cf8f42d20d0a9c93863e10a0d50c074a1157fa0963909db5abf"
 
 [[files]]
 file = "mods/SpiritSMP-Extras.jar"
@@ -1800,6 +1800,11 @@ hash = "006351c0c9a9ff0ea2b4b3fdc3bd14344fc6247b68b884aba7916a5356ded6e2"
 metafile = true
 
 [[files]]
+file = "mods/chais-elytra-enchants.pw.toml"
+hash = "e1da6ac5451dea742196650cbfea5b5c36da04816fe2837205cf99e2c70a16be"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "67b3416cefb139b61c91c659c249973ee899c73801ec6c54922e0cc955830db2"
 metafile = true
@@ -1826,7 +1831,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7dc13e9426aab2f8409816c1685b7251751c5d0516a1ae8ae3ef46dd1302076b"
+hash = "c6564e6bd7f9fef3ac5d07340b09df6529f807ad358bf8156f05d6fc9a4f751b"
 metafile = true
 
 [[files]]
@@ -1871,12 +1876,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "6caaedd656c7588eecb3aab2c3fe9e22fdf2d442fb469a9c75518f381f3c5524"
+hash = "5da1074644345829c6ff47bf57e47e3d2c75c53af5df7bf470f118ba0dce584c"
 metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "66d827ba2c949a101cb34bfb6bc9db3faaca807f123b2ebfd04863ce36344e60"
+hash = "3d86ad16ef6415647d2d7cc54f68f9c5cac630eaf034f6362db9a6136ae1e6e7"
 metafile = true
 
 [[files]]
@@ -1897,6 +1902,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "dded62ce10d426f4948edb2561bf8c7500c73376708312ae49c118447195d50f"
 metafile = true
 
 [[files]]
@@ -1951,7 +1961,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
+hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
 
 [[files]]
@@ -2021,7 +2031,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-right-click.pw.toml"
-hash = "40fca51e8dbe21d62980adab532284ee9424f4ac43e276dc51fb2ed37115281e"
+hash = "24f04cc48f301625eb98f0ddfb58abdc949f3fc053fabb034d1b7c5da5449635"
 metafile = true
 
 [[files]]
@@ -2051,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/rounded_mod.pw.toml"
-hash = "2861a55461a22a1ce9e33800a18bc761f1ef9fdb597accdc5d3810b8a4b08f34"
+hash = "c7d484cc1023967835e2759af0cead4ea7a571bac9297d0565d856f3afbf954b"
 metafile = true
 
 [[files]]
@@ -2071,12 +2081,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2b74406b327af4f30cd7c27f307550b3ccf54b20e04b5534d1558e8f0676f0dc"
+hash = "05e20dd882685733b299c1db03423f665c569f4c57b8404af98c5bb30776fefd"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "a7bc9adc515a0ce815628ca268dc0ffa98a90a589ac6c81344130b1ee534104b"
 metafile = true
 
 [[files]]
@@ -2110,7 +2125,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "e6b4b95aa2f044dd01fcf759be0328e2a84d0a22d432036fca491c391ae08498"
+hash = "9c8e7beb628a56c2bb2c62340639c2baad73d725a49805f88051be9adccdac83"
 metafile = true
 
 [[files]]
@@ -2125,7 +2140,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "21c87194d62299d0e5f5faa299da0bce2d57ee81c06f33093ffbe9a34b363cb4"
+hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
 metafile = true
 
 [[files]]
