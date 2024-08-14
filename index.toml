@@ -1750,6 +1750,11 @@ hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "b7c8c7ad819ad21f31ece50fb5f48ada01bfb44210f79bcd18205661686af54f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
