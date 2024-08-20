@@ -2071,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
+hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
 metafile = true
 
 [[files]]
@@ -2109,6 +2109,11 @@ file = "mods/specter-api-0.0.4-b.jar"
 hash = "2b590e9c2ca52503bbdb6db3386015b8410277cf5c693f45f7e37215b57168e0"
 
 [[files]]
+file = "mods/spirit-vector.pw.toml"
+hash = "4d993d5f179ccd91d320240990e369fb34994c67f43db493369c1740f96d8c83"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
 metafile = true
@@ -2130,7 +2135,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "9c8e7beb628a56c2bb2c62340639c2baad73d725a49805f88051be9adccdac83"
+hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
 metafile = true
 
 [[files]]
