@@ -18,7 +18,7 @@ hash = "8f41b23cbca6300be2a41eed168e266b690926b4c21ae94eda7f5cb5895377e3"
 
 [[files]]
 file = "config/roles.json"
-hash = "8862f5952a13e3c5f6c14ae660397b561f23d0a1b888229df9e54c4ca8eee6b0"
+hash = "43b0a33af930abc12c37a3770a9547c13434d99f1fc2d7513f20db209d384c77"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -1737,8 +1737,16 @@ file = "datapacks/VanillaTweaksRecipes/pack.mcmeta"
 hash = "68d648a3c3294af84e20a1b72c21cd540f299bdd91b61e8b44a2032a4a666da3"
 
 [[files]]
+file = "mods/Bombastic.jar"
+hash = "a39db22c05e6aa28f3b286578b6ea9645a159416600f21a190325bd11131846f"
+
+[[files]]
+file = "mods/Hollow.jar"
+hash = "05cecb3de8f66fd55d50574123898375fe7a60acfaaf214440530ab7b99a7ba2"
+
+[[files]]
 file = "mods/Overflow.jar"
-hash = "dd77a70a5ad17cf8f42d20d0a9c93863e10a0d50c074a1157fa0963909db5abf"
+hash = "4e23671aecfed7cc7cd04d58344bf5d8662d400dc1ba4c637ca16e2babf301ce"
 
 [[files]]
 file = "mods/SpiritSMP-Extras.jar"
@@ -1787,11 +1795,6 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
-metafile = true
-
-[[files]]
-file = "mods/bombastic.pw.toml"
-hash = "afff5701875d20f3ee8ea20feaf6ee33496a74b1615a43b46ff085e1512ef945"
 metafile = true
 
 [[files]]
@@ -1917,11 +1920,6 @@ metafile = true
 [[files]]
 file = "mods/globalize.pw.toml"
 hash = "b231308b3abc9e3434aa3d0bd297984250e8512d0130383db3f271295661d891"
-metafile = true
-
-[[files]]
-file = "mods/hollow.pw.toml"
-hash = "a785990d662f5270af972ffa1a5b236ad5e299118d963a77571de8deccf72e2e"
 metafile = true
 
 [[files]]
@@ -2103,10 +2101,6 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "d19c35dc1e826fca74978fa6648c8725a8584a52660087d26fb214ba5f79ab2f"
 metafile = true
-
-[[files]]
-file = "mods/specter-api-0.0.4-b.jar"
-hash = "2b590e9c2ca52503bbdb6db3386015b8410277cf5c693f45f7e37215b57168e0"
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
