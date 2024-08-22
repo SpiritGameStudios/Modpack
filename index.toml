@@ -9,10 +9,6 @@ file = "config/charm-common.toml"
 hash = "63ca0e9460f463c20b368c2036d4c8f025ac9ee1019dc729ed6456ebd23efe88"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "9a7ad85f83aee07e2d8a76c8e315a63402b512cda740730403d3a2516243840a"
-
-[[files]]
 file = "config/quickerconnectbutton.json5"
 hash = "6a76f9c71e31e3f7b66e60717564b523c95f027ec73c34863915682261116ccd"
 
