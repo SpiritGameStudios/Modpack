@@ -1779,7 +1779,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "763a5dec8ab115ee141b36c6402daf36adfd13e815f0b18a7d8c5d5b39b2d44e"
+hash = "fd4e2ad186aa99ef3078ec0f1d4859cc710b4e385bb756a542bb55252c2bad08"
 metafile = true
 
 [[files]]
@@ -1994,7 +1994,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+hash = "2499d1bf2cae50124a6d4a696df05de0a73d5af04e7234d55803c9069d929d59"
 metafile = true
 
 [[files]]
@@ -2009,12 +2009,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
+hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
+hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
 metafile = true
 
 [[files]]
@@ -2119,7 +2119,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "4d993d5f179ccd91d320240990e369fb34994c67f43db493369c1740f96d8c83"
+hash = "28b43cf2518ef4a4f8f8374e1c6069c5941b0ea1b38f0370f39f9eb8824166c8"
 metafile = true
 
 [[files]]
