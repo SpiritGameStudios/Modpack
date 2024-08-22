@@ -1763,6 +1763,11 @@ hash = "b7c8c7ad819ad21f31ece50fb5f48ada01bfb44210f79bcd18205661686af54f"
 metafile = true
 
 [[files]]
+file = "mods/analog.pw.toml"
+hash = "6ee65ffa6e9c4608b4bc074b1066859db8f384fbb0b89cb2fc5067376408f4eb"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
@@ -1855,6 +1860,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "ed3d2b9957ff1b877d4dfc68209f6032238ce1eba6e85a3129009c92b0801e07"
+metafile = true
+
+[[files]]
+file = "mods/dancerizer.pw.toml"
+hash = "29a72ca031396a6b1fceb56d8f0c82e2dfcc32281e002fee361b0c440569444b"
 metafile = true
 
 [[files]]
@@ -1955,6 +1965,11 @@ metafile = true
 [[files]]
 file = "mods/leash-villager.pw.toml"
 hash = "a6f9fe0b7b272a1b7465f4ceed6c1741e2da444f166d17bbb5531afa7d856827"
+metafile = true
+
+[[files]]
+file = "mods/linkart.pw.toml"
+hash = "5761eee27f01775e055be3a422f3e01613b5e64a27a468f6bdcec5214559f144"
 metafile = true
 
 [[files]]
