@@ -1764,7 +1764,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog.pw.toml"
-hash = "6ee65ffa6e9c4608b4bc074b1066859db8f384fbb0b89cb2fc5067376408f4eb"
+hash = "5aa5d0db5c48902397ae78973adc65198dbe74afcae2c67bf21afaa1e2e25ef9"
 metafile = true
 
 [[files]]
