@@ -1764,7 +1764,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog.pw.toml"
-hash = "5aa5d0db5c48902397ae78973adc65198dbe74afcae2c67bf21afaa1e2e25ef9"
+hash = "f9e6f541ba16715810f075d41f8577655d2167d47b8a43878cbadde98d178896"
 metafile = true
 
 [[files]]
@@ -2104,7 +2104,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
 metafile = true
 
 [[files]]
@@ -2119,7 +2119,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "28b43cf2518ef4a4f8f8374e1c6069c5941b0ea1b38f0370f39f9eb8824166c8"
+hash = "ca7ff6b6e44fce68f2ba5b8054316b898c4fbd348f960fba0d4fecaaaa51d46f"
 metafile = true
 
 [[files]]
