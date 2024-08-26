@@ -1919,7 +1919,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "0ea9347bc26054d8f5a0dc6b010681e2a0366b0a3835a8d98c4ba9f28a41563d"
+hash = "38ab537cecdb0313719aa04cca30c15bd33380c29230b46ac15052da10329379"
 metafile = true
 
 [[files]]
@@ -1989,7 +1989,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
@@ -2124,7 +2124,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "ca7ff6b6e44fce68f2ba5b8054316b898c4fbd348f960fba0d4fecaaaa51d46f"
+hash = "d2dd17016872ae232e999d1897614c74386278d98f7ccc01f6485b3273ed14f0"
 metafile = true
 
 [[files]]
@@ -2169,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/way-much-faster-oxidize-reborn.pw.toml"
-hash = "e48f819e57103b9316fc5610a0a31ae5383908b2f340a532279293b8927f5c70"
+hash = "d54f9ad7126ed605038e8a709932295745b8f40cc73835f3a207f67ba7d8fec8"
 metafile = true
 
 [[files]]
