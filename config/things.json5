@@ -17,7 +17,7 @@
   renderAgglomerationTrinket: true,
   // Whether container blocks locked by a Container Key should be unbreakable
   makeLockedContainersUnbreakable: false,
-  enableAgglomeration: false,
+  enableAgglomeration: true,
   enableAgglomerationInvScrollSelection: true,
   enableRecallPotionRecipe: true,
   recallPotionIngredient: "minecraft:ender_pearl",

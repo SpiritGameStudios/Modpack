@@ -34,7 +34,7 @@ hash = "8a0e0cc2477fd79299b76311aab71b0a7356102d7a519ecbcb48e7a4e6429963"
 
 [[files]]
 file = "config/things.json5"
-hash = "be161dfe58b675e8184ca9a59449d534384a7d3004e548c22b9cc34f16634a7d"
+hash = "38b78d58054d3711077a9f21095a25d9fe71ca3aec7da4d7ed08c92fc03db622"
 
 [[files]]
 file = "config/treeharvester.json5"
