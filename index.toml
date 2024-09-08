@@ -1745,16 +1745,24 @@ file = "datapacks/VanillaTweaksRecipes/pack.mcmeta"
 hash = "68d648a3c3294af84e20a1b72c21cd540f299bdd91b61e8b44a2032a4a666da3"
 
 [[files]]
+file = "datapacks/fix/pack.mcmeta"
+hash = "d59c0e8902b1617c03ba3b2f744fb7e08acb884d1a1ae83eb573f3a749f6ab68"
+
+[[files]]
+file = "datapacks/fix/things/loot_table/blocks/deepslate_gleaming_ore.json"
+hash = "15796764b4761abc8e2b49e46f4db758dab7eeaf1da90771bb048941e2d1fbf7"
+
+[[files]]
+file = "datapacks/fix/things/loot_table/blocks/gleaming_ore.json"
+hash = "cda4f2661a10118b93bd9d085b22c7fcb78c8e3f97238ada52c7ca8a44be7c9e"
+
+[[files]]
 file = "mods/Bombastic.jar"
 hash = "a39db22c05e6aa28f3b286578b6ea9645a159416600f21a190325bd11131846f"
 
 [[files]]
-file = "mods/Hollow.jar"
-hash = "05cecb3de8f66fd55d50574123898375fe7a60acfaaf214440530ab7b99a7ba2"
-
-[[files]]
 file = "mods/Overflow.jar"
-hash = "ce3697b048e57e1a6e76f116d62496a7c9071b3a61723ffe75f5880a2f0a0c97"
+hash = "a643d550e7d991d070660bb162ed6a718807c7fb3cee1ea470cc89ceefe4ff96"
 
 [[files]]
 file = "mods/SpiritSMP-Extras.jar"
