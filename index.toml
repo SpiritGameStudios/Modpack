@@ -1956,6 +1956,11 @@ hash = "b231308b3abc9e3434aa3d0bd297984250e8512d0130383db3f271295661d891"
 metafile = true
 
 [[files]]
+file = "mods/hollow.pw.toml"
+hash = "55ce470c2c10f96cfb22054a158122c3abd77b109055735edb89fc3eb9ac5613"
+metafile = true
+
+[[files]]
 file = "mods/honque.pw.toml"
 hash = "b45db405f376dc78537cd3a7f430c2cecaba52b779b3e432d6a47b1c93b7db06"
 metafile = true
