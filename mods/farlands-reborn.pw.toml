@@ -1,0 +1,13 @@
+name = "Farlands Reborn"
+filename = "farlandsreborn-fabric-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y2YGBPDD/versions/jn2D9WBZ/farlandsreborn-fabric-2.0.0.jar"
+hash-format = "sha512"
+hash = "9b5c83ab2797296164ba2d9b2f56a355da4ffc9c48d4b0614604f2d1684c9a4162452bf374a3c6dbd41da16f07dd68258ca7d6a19673699e2cb4d8720ad8d97e"
+
+[update]
+[update.modrinth]
+mod-id = "Y2YGBPDD"
+version = "jn2D9WBZ"
