@@ -10,7 +10,7 @@ hash = "63ca0e9460f463c20b368c2036d4c8f025ac9ee1019dc729ed6456ebd23efe88"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "1c2e5ba2e7fb3e7750bb8de3eb0350e00e6eb24925d7a4e528f5b7dd0a66e4ee"
+hash = "98f5e1c477e3b281b2b67300df476718921f5ed983dc5a0104064928ac1c7288"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"

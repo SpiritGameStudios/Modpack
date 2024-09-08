@@ -18,7 +18,7 @@
   blacklisted_items: [
     "things:displacement_tome",
     "things:displacement_page",
-    "things:hardening_catalyst",
+    "things:hardening_catalyst"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
@@ -53,5 +53,5 @@
   //
   // [!] Enabling this will disable all regular expressions
   // [!] Does not apply to NBT, only item blacklist / interaction / attack
-  use_hashmap_optimizations: false,
+  use_hashmap_optimizations: false
 }
