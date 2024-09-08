@@ -1757,10 +1757,6 @@ file = "datapacks/fix/things/loot_table/blocks/gleaming_ore.json"
 hash = "cda4f2661a10118b93bd9d085b22c7fcb78c8e3f97238ada52c7ca8a44be7c9e"
 
 [[files]]
-file = "mods/Bombastic.jar"
-hash = "a39db22c05e6aa28f3b286578b6ea9645a159416600f21a190325bd11131846f"
-
-[[files]]
 file = "mods/Overflow.jar"
 hash = "a643d550e7d991d070660bb162ed6a718807c7fb3cee1ea470cc89ceefe4ff96"
 
