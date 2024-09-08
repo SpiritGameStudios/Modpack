@@ -9,6 +9,10 @@ file = "config/charm-common.toml"
 hash = "63ca0e9460f463c20b368c2036d4c8f025ac9ee1019dc729ed6456ebd23efe88"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "1c2e5ba2e7fb3e7750bb8de3eb0350e00e6eb24925d7a4e528f5b7dd0a66e4ee"
+
+[[files]]
 file = "config/quickerconnectbutton.json5"
 hash = "6a76f9c71e31e3f7b66e60717564b523c95f027ec73c34863915682261116ccd"
 
@@ -27,6 +31,10 @@ hash = "7e46bbcc82e034d4a4fa30d199bcc3e0ff12533576fc77f4c59755ff6be85fc6"
 [[files]]
 file = "config/styled-nicknames.json"
 hash = "8a0e0cc2477fd79299b76311aab71b0a7356102d7a519ecbcb48e7a4e6429963"
+
+[[files]]
+file = "config/things.json5"
+hash = "be161dfe58b675e8184ca9a59449d534384a7d3004e548c22b9cc34f16634a7d"
 
 [[files]]
 file = "config/treeharvester.json5"
