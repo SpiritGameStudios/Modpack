@@ -1824,6 +1824,11 @@ hash = "6432cf1725b4b570cbdec0135cb1ed5cc64a0e09a15ee4d8a72daf8996524ba7"
 metafile = true
 
 [[files]]
+file = "mods/bombastic.pw.toml"
+hash = "b11d06cf070a8fe93b21801477d8e6d3b9a5c1a40ab406270872e1e38dc1a644"
+metafile = true
+
+[[files]]
 file = "mods/brainier-bees.pw.toml"
 hash = "5e00801c2068dff589d7c0a3f90a50bf7491c48f3f8a99219d0cd7a957e610e8"
 metafile = true
