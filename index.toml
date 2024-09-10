@@ -2045,6 +2045,11 @@ hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "fa3020996354f5d726586a00d2e9ed3f6d5b5b94ed23772102818699e249a015"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
