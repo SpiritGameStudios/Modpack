@@ -1775,6 +1775,11 @@ hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fbadcc8cd29570bcdf62126f5dd0350ba9e3fd20ad1c3bcfc41be3909809ea66"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "b7c8c7ad819ad21f31ece50fb5f48ada01bfb44210f79bcd18205661686af54f"
 metafile = true
@@ -1787,6 +1792,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "be9cdceb0aafb343daa77dcd45b725b4a6fd873ddf3f3bb1f1724048272b8f98"
 metafile = true
 
 [[files]]
@@ -2105,6 +2115,11 @@ hash = "b681577b51a8538dd565844fc59532b1a10557631c65642756def43972f0c753"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d9933a5efd30808f21816d84f96708cf4255a48c3e93d98c3ed380561d7dc257"
+metafile = true
+
+[[files]]
 file = "mods/quick-right-click.pw.toml"
 hash = "24f04cc48f301625eb98f0ddfb58abdc949f3fc053fabb034d1b7c5da5449635"
 metafile = true
@@ -2112,6 +2127,11 @@ metafile = true
 [[files]]
 file = "mods/quicker-connect-button.pw.toml"
 hash = "376d847e5630827e2b3d0d5acc306f154e4b7045bea57a0357afcc80297d1e9d"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "5ba07d79813804f77b4a403c829c51469fcca8c6466d77b1ed4c8676dfd8e984"
 metafile = true
 
 [[files]]
@@ -2177,6 +2197,11 @@ metafile = true
 [[files]]
 file = "mods/spirit-vector.pw.toml"
 hash = "d2dd17016872ae232e999d1897614c74386278d98f7ccc01f6485b3273ed14f0"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "db12e0beeb2db697c6ccd2368ede5be93716e3aa8ea25b20a234dd3bd1045702"
 metafile = true
 
 [[files]]
