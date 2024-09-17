@@ -1766,7 +1766,7 @@ hash = "feac828b35f93dc63e6fb801439dfa3503e147b4b71015b5bcda78f8e9afdb6b"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "9ebd7d1c8700c81a02906a2ce519ec991834ef980f63ace5eff80099a2abc142"
+hash = "1d2ce8dfa0bf6070bb6b43a052285812e1f8f2e9c5d8dc91e53d901f57bfcc46"
 metafile = true
 
 [[files]]
@@ -1861,12 +1861,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "281e2d541c2ab54e3bc6f0e5973205a3cf12074afeea89721a61b72192fe0d2b"
+hash = "2a25f8f8df18c2416c03a3655ae918cecb427d389ea7f81fc188e5778ec3f0aa"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -1881,7 +1881,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "0d7fb8cd97b8e670839ea475b63df903039890bddfb14b2c6ddcf0a1980059af"
+hash = "3104447bc7715100540efb1760de760de3ab600ed139ddd7c48b23c117da3dbe"
 metafile = true
 
 [[files]]
@@ -1956,7 +1956,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "08d3361b18ebc32c849fedf631f9d6b05939283dc72667047d047218d0f8a616"
+hash = "f0d7cf1552c8e3027b1f2f0adbb89b8adc0c64aef8c4d0d2468398cb0c166660"
 metafile = true
 
 [[files]]
@@ -2046,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fa3020996354f5d726586a00d2e9ed3f6d5b5b94ed23772102818699e249a015"
+hash = "25af27130b4c248c2cd85a56b7dee2d02ff886d605238eaad4099a2e2c256a4c"
 metafile = true
 
 [[files]]
@@ -2091,7 +2091,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "38699a8b27c4be66b7ea28cee7a411d3fddc7450af4ae31b2579df1c1945479c"
+hash = "517291923c2e8d79d0fb4d5ead19fbb5fcdc91f6f968c6b3d0986bc7fc6d6cfe"
 metafile = true
 
 [[files]]
@@ -2181,7 +2181,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2fb9b677ce7c03d18fcf9bd6bd817b68028bbd3bbf444f462a1884df038bccfd"
+hash = "4589a97011fcd472b68c4586bec5f40e464f4ed775cfc78e45fc6052adf9a4c7"
 metafile = true
 
 [[files]]
@@ -2221,7 +2221,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "1a4a50480745c308e0cb26a7652ef356bd768ddd43560d7142f4a322743a6fec"
+hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
@@ -2231,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "mods/things.pw.toml"
-hash = "b5cbf8ef88445e149bd3541e89b07eb63a4f8c4c69244bcea81b86fc539aacdd"
+hash = "6ee3cd558b1a9837bfe40b4410531f46c5157368dd53c305ebe6a9159b8e26ac"
 metafile = true
 
 [[files]]
@@ -2256,7 +2256,7 @@ metafile = true
 
 [[files]]
 file = "mods/way-much-faster-oxidize-reborn.pw.toml"
-hash = "d54f9ad7126ed605038e8a709932295745b8f40cc73835f3a207f67ba7d8fec8"
+hash = "b96fd1dca483078f5813b092c926aa4bd6b47d902428bb5cac12a036ad09b7e6"
 metafile = true
 
 [[files]]
