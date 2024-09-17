@@ -2255,11 +2255,6 @@ hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
 metafile = true
 
 [[files]]
-file = "mods/way-much-faster-oxidize-reborn.pw.toml"
-hash = "b96fd1dca483078f5813b092c926aa4bd6b47d902428bb5cac12a036ad09b7e6"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
 metafile = true
