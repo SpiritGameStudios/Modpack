@@ -1985,6 +1985,11 @@ hash = "b45db405f376dc78537cd3a7f430c2cecaba52b779b3e432d6a47b1c93b7db06"
 metafile = true
 
 [[files]]
+file = "mods/hopperpots.pw.toml"
+hash = "ba5557214d396aeb7d811eab289802e58fdeb6105c9a4c044ba05ca80dcfba66"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
@@ -2057,6 +2062,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "2499d1bf2cae50124a6d4a696df05de0a73d5af04e7234d55803c9069d929d59"
+metafile = true
+
+[[files]]
+file = "mods/nixienaut.pw.toml"
+hash = "bf238508b9762d5aa4eca38720ed62526767346cb441aa36aae2ab43905758fc"
 metafile = true
 
 [[files]]

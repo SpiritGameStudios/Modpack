@@ -1,0 +1,13 @@
+name = "Nixienaut"
+filename = "Nixienaut-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTDqi0Kf/versions/QAXnr6U4/Nixienaut-2.0.2.jar"
+hash-format = "sha512"
+hash = "82f241bb6b5691648f22cfae779df8ca0bed8fa3e0fedcb7a621ec8bc06972be1c64cd2fbcbcd491a9637a1c1f4e5df5e587a147c9ec1757fced35b1df502d18"
+
+[update]
+[update.modrinth]
+mod-id = "LTDqi0Kf"
+version = "QAXnr6U4"

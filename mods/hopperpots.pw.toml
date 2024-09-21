@@ -1,0 +1,13 @@
+name = "Hopper Pots"
+filename = "hopperpots-1.0.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VC49Z5ik/versions/Bffdjoqb/hopperpots-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "46aa94dfaab31fa80c536f1d31d3902972dd49faf401d52799d076ae1a0678699a749171b2a6c32fb36401b2c8b68693619eab8613a8cd5e7a02a83552305509"
+
+[update]
+[update.modrinth]
+mod-id = "VC49Z5ik"
+version = "Bffdjoqb"
