@@ -1776,7 +1776,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "fbadcc8cd29570bcdf62126f5dd0350ba9e3fd20ad1c3bcfc41be3909809ea66"
+hash = "717292cc70aa790adcbf9e241a88cc9cd38822739bd63fe05525957ee033f0d7"
 metafile = true
 
 [[files]]
@@ -1791,7 +1791,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
@@ -1916,7 +1916,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "6e33f2a6ee196e59dfcbd51a4bf364c15f095a2c30a80b115bfce23d2aa1a2fb"
+hash = "94c8335f5c328b50389c520f9e17da458ee86f5043c7ba0bc7b289ce47c26f2b"
 metafile = true
 
 [[files]]
@@ -1926,7 +1926,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "aec02fa8f86cdc68310251bb8799d863482404dcaffc80be5c3158dd707fe66d"
+hash = "78f051a2e80dc3d330cf5d762c0e24a74c215a3bdfdfe783c3ee040effe933bc"
 metafile = true
 
 [[files]]
@@ -1936,7 +1936,7 @@ metafile = true
 
 [[files]]
 file = "mods/endanchor.pw.toml"
-hash = "a1bf88671d05c8bae38f774812eec2668400a529282018f84e87b88eeacfcb2e"
+hash = "693df406dbdc95c519d902cf1488727e88b257708123843920055c87ace77e72"
 metafile = true
 
 [[files]]
@@ -2051,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a5e3a2d5a789c1bba819ea68dd30248598a79edd1d0b400848bb8e0f85a74b6d"
+hash = "4086598458685abf178f14e2f0b120b8a96187ec22b191e4b2b2af7c0c2cd95f"
 metafile = true
 
 [[files]]
@@ -2061,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "2499d1bf2cae50124a6d4a696df05de0a73d5af04e7234d55803c9069d929d59"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
@@ -2156,7 +2156,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "a99fe3dae118052cbc06d47276488d3c41b380da3cf3d7f8e678090efcf2a75b"
+hash = "7790afcb74e2fa740ca2fdefc4651c38466de3ec1709e1e618277d5e8d62181c"
 metafile = true
 
 [[files]]
@@ -2191,7 +2191,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4589a97011fcd472b68c4586bec5f40e464f4ed775cfc78e45fc6052adf9a4c7"
+hash = "3dbf851940d17238fa44b65da97199612a272b5fea3d4b1e4aa156a4b496e957"
 metafile = true
 
 [[files]]
@@ -2256,7 +2256,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-shutters.pw.toml"
-hash = "294b8982fe937123b7fb844ad0f1d064cf0fcdde57dad9d232666397ab753ffa"
+hash = "2d5315c701ef382d95343d5649a58df994f8e18516cf077df99c2496879f4eed"
 metafile = true
 
 [[files]]

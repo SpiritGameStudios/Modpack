@@ -1,13 +1,13 @@
 name = "Vanilla Shutters"
-filename = "shutter-1.1+1.21.jar"
+filename = "shutter-1.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/94GDnVOQ/versions/jlDjy0sN/shutter-1.1%2B1.21.jar"
-hash-format = "sha1"
-hash = "35f4e20e3294cc06ddef7dc542d603561e654fbc"
+url = "https://cdn.modrinth.com/data/94GDnVOQ/versions/88CjWyML/shutter-1.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "661f787d8d710c34812da6faaa0f8ba2ac5c6a5dd89dce9165607afd65d00812eb0f91b219bc561779dc31396e3f662216c69fd4fce8d324efb35f217a36ce65"
 
 [update]
 [update.modrinth]
 mod-id = "94GDnVOQ"
-version = "jlDjy0sN"
+version = "88CjWyML"

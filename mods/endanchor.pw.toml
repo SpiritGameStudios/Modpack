@@ -1,13 +1,13 @@
 name = "Sit's End Teleport Anchor"
-filename = "SitsEndAnchor-1.0.2.jar"
+filename = "SitsEndAnchor-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NVEKqSvk/versions/xSwrcyux/SitsEndAnchor-1.0.2.jar"
-hash-format = "sha1"
-hash = "93647c184114a3b4cafa33cf6ec31a18cfd852c4"
+url = "https://cdn.modrinth.com/data/NVEKqSvk/versions/yBX9750R/SitsEndAnchor-1.1.0.jar"
+hash-format = "sha512"
+hash = "24ece27ceea5854df1a045b1438c9384fbbe2ca1836ff3eae2ba19c019c535fd4180f0de467ae8679165a53aa1dc42155f2be8c9fa17ee15d408fcb9f0d26e3e"
 
 [update]
 [update.modrinth]
 mod-id = "NVEKqSvk"
-version = "xSwrcyux"
+version = "yBX9750R"
