@@ -1975,6 +1975,11 @@ hash = "b231308b3abc9e3434aa3d0bd297984250e8512d0130383db3f271295661d891"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "d8305d23d0c26138fbe7c3d1dc50830b739a93deca1ea31ba1c508a7c8c4d7b9"
+metafile = true
+
+[[files]]
 file = "mods/hollow.pw.toml"
 hash = "55ce470c2c10f96cfb22054a158122c3abd77b109055735edb89fc3eb9ac5613"
 metafile = true
@@ -2012,6 +2017,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "e9662ef699ca9b8d68e777fd38fa1217e2bdac0aa2da2eba104de296890622ce"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "106871b20687013a2104a0263ae11bde70e6c9a9848196086afa9f06c4799983"
 metafile = true
 
 [[files]]
@@ -2057,6 +2067,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
+metafile = true
+
+[[files]]
+file = "mods/moyai.pw.toml"
+hash = "526af01b7bb339fa378a84291fa2f9fb705adcda85af7653d84d2ad43ae4b35a"
 metafile = true
 
 [[files]]
@@ -2195,6 +2210,11 @@ hash = "3dbf851940d17238fa44b65da97199612a272b5fea3d4b1e4aa156a4b496e957"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "d4fd8d741122a4478023eb1ca5154822e87bf2c82cf50e83466c2a999edcabf7"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
@@ -2212,6 +2232,11 @@ metafile = true
 [[files]]
 file = "mods/spirit-vector.pw.toml"
 hash = "d2dd17016872ae232e999d1897614c74386278d98f7ccc01f6485b3273ed14f0"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "b95ce16789bdf41c767f5ee53502626eff959274ddd8a8c811d92a2705f1b561"
 metafile = true
 
 [[files]]
@@ -2252,6 +2277,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "6b3602253233c7c0f4352d9b77529595779e0d24b2b9445a8e62cdbf45875d85"
 metafile = true
 
 [[files]]

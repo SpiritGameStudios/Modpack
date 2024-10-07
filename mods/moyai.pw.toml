@@ -1,0 +1,13 @@
+name = "Moyai"
+filename = "moyai-1.21-2.1.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7WhFkyW/versions/zX6TK43Y/moyai-1.21-2.1.5-fabric.jar"
+hash-format = "sha512"
+hash = "186d54f2c442c3e94690492c0bc18f870af1f0015dbe1df774ad111eca1383e22418741e6c4bf48ff8d30e65523c00715a132f07ff2f54f59c616bd297618a28"
+
+[update]
+[update.modrinth]
+mod-id = "z7WhFkyW"
+version = "zX6TK43Y"
