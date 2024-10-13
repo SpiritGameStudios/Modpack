@@ -9,6 +9,10 @@ file = "config/charm-common.toml"
 hash = "63ca0e9460f463c20b368c2036d4c8f025ac9ee1019dc729ed6456ebd23efe88"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "4908dfe27e18535da155849644f6799c6470a3cccb7b667d39b2eb15f7d160d9"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "98f5e1c477e3b281b2b67300df476718921f5ed983dc5a0104064928ac1c7288"
 
