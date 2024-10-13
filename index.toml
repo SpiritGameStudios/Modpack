@@ -1766,7 +1766,7 @@ hash = "feac828b35f93dc63e6fb801439dfa3503e147b4b71015b5bcda78f8e9afdb6b"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "1d2ce8dfa0bf6070bb6b43a052285812e1f8f2e9c5d8dc91e53d901f57bfcc46"
+hash = "7e052249ece42ca30ec098ef89b17eeb0a7441649568d43307c96fee85eef207"
 metafile = true
 
 [[files]]
@@ -1775,8 +1775,13 @@ hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "208a52276bf3af6ffd30b032b5954269bc30513053c279e7255cc167c38e5d5c"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
-hash = "717292cc70aa790adcbf9e241a88cc9cd38822739bd63fe05525957ee033f0d7"
+hash = "0361f182ec44f12d7ab5664552dd5fc57c3ba054a6ac83615c9ab487f2a2e390"
 metafile = true
 
 [[files]]
@@ -1796,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "a7ef981b4795f0ab6fe4ed5dc2af2562f648966c45f4d0901eaa84ead4541009"
+hash = "a7c083cdfd0a94c22a4ed744a234a4a6e52b23d1d497d944db004070c5e97768"
 metafile = true
 
 [[files]]
@@ -1926,7 +1931,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "78f051a2e80dc3d330cf5d762c0e24a74c215a3bdfdfe783c3ee040effe933bc"
+hash = "f37f04192a577eb70673df34e2e73ccef962443f913e38fd6bcb21a0a465f9e5"
 metafile = true
 
 [[files]]
@@ -1951,7 +1956,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -2055,6 +2060,11 @@ hash = "102d8be60c143a9e5e85339d3682b14330a2f76801a27714ef42913f513f7bcd"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "ea1e5a4e9665cb3722d8a8f172698843d5832d352393c132290907d416485881"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
@@ -2066,7 +2076,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4086598458685abf178f14e2f0b120b8a96187ec22b191e4b2b2af7c0c2cd95f"
+hash = "938672cf915b5598113088726f9214340a870fa85916a2576c6a7f03472362ec"
 metafile = true
 
 [[files]]
@@ -2121,7 +2131,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "517291923c2e8d79d0fb4d5ead19fbb5fcdc91f6f968c6b3d0986bc7fc6d6cfe"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
@@ -2181,17 +2191,17 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "f26d5497aa9e92da4650100f2688a0814c559ad9e7765f2716f1c172f61e0dea"
+hash = "62bc1d0108fe9e13d45d3534bb70edc36b7af98e8a68439a75e4c692adca2a50"
 metafile = true
 
 [[files]]
 file = "mods/respawnable-pets.pw.toml"
-hash = "d81814153abfc2fcc42dc20371bfc49dfc210593aac4500a503c1182517a339b"
+hash = "4cc43a9b1a71ca0ee121a754dd070f52b963d8fd47ed733886638a90ec0be7cd"
 metafile = true
 
 [[files]]
 file = "mods/rounded_mod.pw.toml"
-hash = "c7d484cc1023967835e2759af0cead4ea7a571bac9297d0565d856f3afbf954b"
+hash = "976bfd8d4cdd96995adf4fd60659eabfcecee721c83c11119ad5287d0d1ed2d2"
 metafile = true
 
 [[files]]
@@ -2211,7 +2221,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3dbf851940d17238fa44b65da97199612a272b5fea3d4b1e4aa156a4b496e957"
+hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
 metafile = true
 
 [[files]]
