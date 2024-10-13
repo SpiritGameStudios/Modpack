@@ -1935,6 +1935,11 @@ hash = "3d86ad16ef6415647d2d7cc54f68f9c5cac630eaf034f6362db9a6136ae1e6e7"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "a6bf3a71e23668a1628eb73512132674a1230f944e91bed2cdc20d43fa13f5f1"
+metafile = true
+
+[[files]]
 file = "mods/endanchor.pw.toml"
 hash = "693df406dbdc95c519d902cf1488727e88b257708123843920055c87ace77e72"
 metafile = true
