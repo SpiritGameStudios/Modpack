@@ -1,13 +1,13 @@
 name = "Sooty Chimneys"
-filename = "sootychimneys-fabric-1.3.0.jar"
+filename = "sootychimneys-fabric-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/OuHWi3VE/sootychimneys-fabric-1.3.0.jar"
-hash-format = "sha1"
-hash = "245b11f48d4d8b9d55bef3b6893a233d32ebb80b"
+url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/SpaItGFa/sootychimneys-fabric-1.3.1.jar"
+hash-format = "sha512"
+hash = "22808d2208313540c98f274834faed84332c8b96adef533dab6aeddc85ea3ce24c5adc4eaaf16733a529836589bd6d59ba4819643cf703472155e306ec0538b6"
 
 [update]
 [update.modrinth]
 mod-id = "b3w1XM9H"
-version = "OuHWi3VE"
+version = "SpaItGFa"
