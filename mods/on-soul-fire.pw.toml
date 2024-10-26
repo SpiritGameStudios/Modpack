@@ -1,0 +1,13 @@
+name = "On Soul Fire"
+filename = "onsoulfire-1.21-r1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfTvoVqY/versions/xXYd4Yvp/onsoulfire-1.21-r1.jar"
+hash-format = "sha512"
+hash = "1e4f99a9a67fa13e277d155004431923d1e99b7a9bae7afc1965ebc0d2ea91e6d8d5fd108b234c0fe833e68d009ed1a386d1301475696424eb934f9b4ad30277"
+
+[update]
+[update.modrinth]
+mod-id = "HfTvoVqY"
+version = "xXYd4Yvp"

@@ -1,0 +1,13 @@
+name = "Creeper Firework"
+filename = "CreeperFirework-fabric-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/owUiXPam/versions/vImMidkH/CreeperFirework-fabric-2.2.0.jar"
+hash-format = "sha512"
+hash = "72538199bc37c8f7759d8d0e456da3a90aea72dd10979c4b5b5a0feaffa3e737ed718594ff05556630728977717dbc793d01fb8114d7b4b316076e16004bd1ae"
+
+[update]
+[update.modrinth]
+mod-id = "owUiXPam"
+version = "vImMidkH"
