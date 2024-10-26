@@ -17,6 +17,7 @@
       "commands": {
         "help": "allow",
         "seed": "allow",
+        "nick.*": "allow",
 
         ".*": "deny"
       }

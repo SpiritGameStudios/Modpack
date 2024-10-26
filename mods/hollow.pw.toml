@@ -3,11 +3,11 @@ filename = "Hollow.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EQovXCIt/versions/L1Lry0LL/Hollow.jar"
+url = "https://cdn.modrinth.com/data/EQovXCIt/versions/XEjVoAhJ/Hollow.jar"
 hash-format = "sha512"
-hash = "7a807a528c08a3770a8a4d7a61e5bedd32984fe0afe36998cd234492fa92b8c1fae764f48dd0f8af299f76a2540cbe6ab9b3e40b566007eb042c6b54ea9a59d7"
+hash = "4d89f4f9e9727698b0e7d506a06c32176358a45066d812e105cf76a2283a96c7f868633adfee116f85e07f8ea01ae0f887afc78b4ddf2aa672ea1f6590b3db72"
 
 [update]
 [update.modrinth]
 mod-id = "EQovXCIt"
-version = "L1Lry0LL"
+version = "XEjVoAhJ"

@@ -5,6 +5,11 @@
       "-depends": {
         "minecraft": "IGNORED"
       }
+    },
+    "creeper_firework": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
     }
   }
 }
