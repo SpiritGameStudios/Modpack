@@ -21,8 +21,12 @@ file = "config/item_obliterator.json5"
 hash = "98f5e1c477e3b281b2b67300df476718921f5ed983dc5a0104064928ac1c7288"
 
 [[files]]
+file = "config/overflow.json"
+hash = "494b10348b2de26178336bcf0d7812593c8c08c8e6652d201a85f57ccb1225ca"
+
+[[files]]
 file = "config/quickerconnectbutton.json5"
-hash = "6a76f9c71e31e3f7b66e60717564b523c95f027ec73c34863915682261116ccd"
+hash = "3d558a3be2290d2ec86ecc4a0ac0c9b9d48a75d040e88971ffd9a23c8bb2b981"
 
 [[files]]
 file = "config/quickrightclick.json5"
@@ -34,7 +38,7 @@ hash = "43b0a33af930abc12c37a3770a9547c13434d99f1fc2d7513f20db209d384c77"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "7e46bbcc82e034d4a4fa30d199bcc3e0ff12533576fc77f4c59755ff6be85fc6"
+hash = "4be34f56ba15daf19d4a48124ac34851501c6d650764b5bf2d3b65940f3e04ee"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -42,7 +46,7 @@ hash = "8a0e0cc2477fd79299b76311aab71b0a7356102d7a519ecbcb48e7a4e6429963"
 
 [[files]]
 file = "config/things.json5"
-hash = "38b78d58054d3711077a9f21095a25d9fe71ca3aec7da4d7ed08c92fc03db622"
+hash = "3df381a81e5400a185cf539524d5a3777ce0c21e2f2f8994065ca7350d7a199e"
 
 [[files]]
 file = "config/treeharvester.json5"
@@ -1828,11 +1832,6 @@ hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
 
 [[files]]
-file = "mods/better-than-mending.pw.toml"
-hash = "6b961f375c93f62fc3ff6f586729783c8752f9db5120bfc2bbe5dbeb61865329"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "88f0a020197fb516f215e798ab688990030b261d76287b7d34ed8ffa8bc7fd2a"
 metafile = true
@@ -1865,11 +1864,6 @@ metafile = true
 [[files]]
 file = "mods/chais-elytra-enchants.pw.toml"
 hash = "e1da6ac5451dea742196650cbfea5b5c36da04816fe2837205cf99e2c70a16be"
-metafile = true
-
-[[files]]
-file = "mods/chalk.pw.toml"
-hash = "67b3416cefb139b61c91c659c249973ee899c73801ec6c54922e0cc955830db2"
 metafile = true
 
 [[files]]
@@ -1954,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "36261c17de8ef80929cd05358825535a804f612509d38e289cd5577a4e7f4a84"
+hash = "3c4923d7f0baa3d805ce8f8acb4bc2bba12e39aa2684e3d6aa585df3f272f5a2"
 metafile = true
 
 [[files]]
@@ -2060,11 +2054,6 @@ metafile = true
 [[files]]
 file = "mods/leash-villager.pw.toml"
 hash = "a6f9fe0b7b272a1b7465f4ceed6c1741e2da444f166d17bbb5531afa7d856827"
-metafile = true
-
-[[files]]
-file = "mods/linkart.pw.toml"
-hash = "5761eee27f01775e055be3a422f3e01613b5e64a27a468f6bdcec5214559f144"
 metafile = true
 
 [[files]]

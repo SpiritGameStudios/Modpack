@@ -1,0 +1,18 @@
+{
+  // The amount of coyote time for attacking entities in ticks
+  "attackCoyoteTicks": 3,
+  // The amount of coyote time for jumping in ticks
+  "jumpCoyoteTicks": 3,
+  // Prevent players from trampling farmland when landing on it
+  "noTrampleFarmland": true,
+  // Allow players to make item frames invisible by right-clicking them with shears
+  "invisibleItemFrames": true,
+  "fancyBlockParticles": true,
+  // Makes many particles fade in and out of existence
+  "fancyParticleAnimations": true,
+  "renderDiscInJukebox": true,
+  // Makes the cursor change when hovering over clickable elements
+  "uiCursors": true,
+  // Show TPS and MSPT in the tab list
+  "tabTPS": true
+}
