@@ -4436,7 +4436,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
+hash = "c1697c10df32b0411f5655dc7f1f642d91e289b9160cf0f2358fcf86c5c679b3"
 metafile = true
 
 [[files]]
@@ -4451,7 +4451,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f0d7cf1552c8e3027b1f2f0adbb89b8adc0c64aef8c4d0d2468398cb0c166660"
+hash = "c9eb80fbd0e9d83487e302be6d3f43f07523a5e818f7f7550d591c400a13571f"
 metafile = true
 
 [[files]]
@@ -4661,7 +4661,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "5ba07d79813804f77b4a403c829c51469fcca8c6466d77b1ed4c8676dfd8e984"
+hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
 metafile = true
 
 [[files]]
@@ -4671,7 +4671,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "7790afcb74e2fa740ca2fdefc4651c38466de3ec1709e1e618277d5e8d62181c"
+hash = "c7faa4bd63a6e637652af59586596203726ce2f76d4bb22343bdc1bcccb446c0"
 metafile = true
 
 [[files]]
@@ -4706,7 +4706,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
+hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
 metafile = true
 
 [[files]]
