@@ -1,13 +1,13 @@
 name = "Enchancement"
-filename = "enchancement-1.21-r11.jar"
+filename = "enchancement-1.21-r12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/pH8kFnQT/enchancement-1.21-r11.jar"
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/yElUXBMC/enchancement-1.21-r12.jar"
 hash-format = "sha512"
-hash = "d6092ab51931b84dba7ce35766ea118edce74f9834a3a7543fded0649d1c8580f30d2138cca27c998eaa4b737e7a6f2ae848be11742cf5a5d61566d85e9660d4"
+hash = "5ddd4a000b4c4eeacf5dc27e47fd589ce41cd20561f74293c57190f9ee12b7c2cdd6860d8d224b319340e30f22cc22cf2a42748b55573a0b74314697849f00aa"
 
 [update]
 [update.modrinth]
 mod-id = "6hN1V6wJ"
-version = "pH8kFnQT"
+version = "yElUXBMC"

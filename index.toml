@@ -4266,7 +4266,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "b7c8c7ad819ad21f31ece50fb5f48ada01bfb44210f79bcd18205661686af54f"
+hash = "f4411a9cb12a9acc4ce3b8dedc21b2e379184128b19dcdffd90a54a3bbea36a2"
 metafile = true
 
 [[files]]
@@ -4401,7 +4401,7 @@ metafile = true
 
 [[files]]
 file = "mods/displaycase.pw.toml"
-hash = "c5d4e025c862cbf8f57aecfccfc295d69ee0ee971d56fa2e7494e61734edb0d6"
+hash = "0b6b6f91ca1f6d3486551c367bffe1b944a10452b4288ee709227fe83574e122"
 metafile = true
 
 [[files]]
@@ -4426,7 +4426,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "3c4923d7f0baa3d805ce8f8acb4bc2bba12e39aa2684e3d6aa585df3f272f5a2"
+hash = "78acc77e4af427633a77aaca8d5abf573531f54541341670cbe9876881de558a"
 metafile = true
 
 [[files]]
@@ -4581,7 +4581,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+hash = "4d2f963afd70835e8b5edd7e18a6e236ee4a1dbbabead3bc0e796462056448c0"
 metafile = true
 
 [[files]]
@@ -4601,7 +4601,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "0730081fae9d74187677a056e9d627eae44fa807d0f30a5eba17acf5ed0aa042"
+hash = "14f919863b719ef8b7aef93bff975afb7a2c5bf95752ee5d6f8b0f6f3ace0d77"
 metafile = true
 
 [[files]]
