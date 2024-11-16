@@ -10,7 +10,7 @@ hash = "4908dfe27e18535da155849644f6799c6470a3cccb7b667d39b2eb15f7d160d9"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c42b76802e2a2ac563541df3f0a0ebc5e843a96d106b3b43a1e1b5a5f2014507"
+hash = "c1418d63c6132b18a0ad69411b2f4b9972b6344d90883199ba97bfa0b8d5c584"
 
 [[files]]
 file = "config/item_obliterator.json5"
