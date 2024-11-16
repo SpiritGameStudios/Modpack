@@ -4760,11 +4760,6 @@ hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "e161b9a506df814e129aa8a4068e5df31941803613c8c9d3ffbd5ef4fd46d5f2"
-metafile = true
-
-[[files]]
 file = "mods/teabridge.pw.toml"
 hash = "bec62b64e255b592feb9b7d1e88e4eb535836a37f22a6ae97fe40842275a3814"
 metafile = true
