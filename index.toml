@@ -4242,7 +4242,7 @@ hash = "cfc933ea62230cdf1a43e6177f5a824d36138411f386a23266fa0b6d5cddced9"
 
 [[files]]
 file = "mods/SpiritSMP-Extras.jar"
-hash = "feac828b35f93dc63e6fb801439dfa3503e147b4b71015b5bcda78f8e9afdb6b"
+hash = "061db24b1df43020b34f069b9975a865545e330f5f69888e4d88936b28e0aa9a"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -4346,7 +4346,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8f34e07fd020c5393d5c1cf686f67013aa64768725ed4ac5245de89a8c1e2173"
+hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
 metafile = true
 
 [[files]]
@@ -4526,7 +4526,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "a84420a69589f905149634d0d074ada15af31228f29ecfc10fad2d55cf47404c"
+hash = "fa0e2391958dee24c36fa05683f556ef5abbefcd39161ca3e8bc464f61835c7b"
 metafile = true
 
 [[files]]
@@ -4556,7 +4556,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "60a6dda81ba753ef71875413f0a72f5f3fbd5e78dc485fdc41a3d2052fb7a5e9"
+hash = "c8f251c513ef442a8cbb3f6cea0428dfe6fee1ed675cd63b363769795cb14024"
 metafile = true
 
 [[files]]
@@ -4581,7 +4581,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "4d2f963afd70835e8b5edd7e18a6e236ee4a1dbbabead3bc0e796462056448c0"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -4596,7 +4596,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
+hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
 metafile = true
 
 [[files]]
@@ -4701,7 +4701,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "c69e3afc72655be89d6c6621911a0af4cc96ab66bba9d227537a9d73f1ee3a47"
+hash = "8542c20d97dd6be6be944bd55c03c14cdc333c0f648b2ce430f15cecfe1ba071"
 metafile = true
 
 [[files]]
@@ -4711,7 +4711,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "a7784063c2a65522935f17c5bf30545778a1d28be13a0b8cb102339bd1c14afc"
+hash = "a009edcaf883f0451476279933ff360ba25f49f36acdabdf7ec585a901d82105"
 metafile = true
 
 [[files]]
@@ -4757,6 +4757,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "0288e4983be979660ef4ddf6ae1dc15976d1eac355adb98a1e628b4393e4ec5e"
 metafile = true
 
 [[files]]
