@@ -10,6 +10,11 @@
       "-depends": {
         "minecraft": "IGNORED"
       }
+    },
+    "supplementaries": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
     }
   }
 }
