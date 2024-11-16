@@ -1,16 +1,17 @@
-name = ""
+name = "Spirit SMP"
 author = "Spirit Studios"
-version = "1.1.2"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ff04a59cfa39307f24d7625eb7d31924f49c36b6c8bf712504a25d5be1bdc410"
+hash = "e6be8f4499873e8a6a1ea089c6197536c1af968f1600d4b2dbc6ec42319349be"
 
 [versions]
-fabric = "0.16.2"
-minecraft = "1.21"
+fabric = "0.16.9"
+minecraft = "1.21.1"
 
 [options]
+acceptable-game-versions = ["1.21"]
 datapack-folder = "datapacks"

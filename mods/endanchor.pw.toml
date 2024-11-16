@@ -3,11 +3,11 @@ filename = "SitsEndAnchor-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NVEKqSvk/versions/yBX9750R/SitsEndAnchor-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/NVEKqSvk/versions/ly04w9HI/SitsEndAnchor-1.1.0.jar"
 hash-format = "sha512"
-hash = "24ece27ceea5854df1a045b1438c9384fbbe2ca1836ff3eae2ba19c019c535fd4180f0de467ae8679165a53aa1dc42155f2be8c9fa17ee15d408fcb9f0d26e3e"
+hash = "6043a8bffa0753176c4947e90c785541dc8c15509f41d8bdf58f53ef4fe0797eafc546ad1ab41be661600e662ca4404682509b088c8a8b8c9785447e3de92d90"
 
 [update]
 [update.modrinth]
 mod-id = "NVEKqSvk"
-version = "yBX9750R"
+version = "ly04w9HI"
