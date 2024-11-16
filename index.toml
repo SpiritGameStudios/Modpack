@@ -9,10 +9,6 @@ file = "config/enchancement.json"
 hash = "4908dfe27e18535da155849644f6799c6470a3cccb7b667d39b2eb15f7d160d9"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "c1418d63c6132b18a0ad69411b2f4b9972b6344d90883199ba97bfa0b8d5c584"
-
-[[files]]
 file = "config/item_obliterator.json5"
 hash = "98f5e1c477e3b281b2b67300df476718921f5ed983dc5a0104064928ac1c7288"
 
@@ -4415,6 +4411,11 @@ hash = "f37f04192a577eb70673df34e2e73ccef962443f913e38fd6bcb21a0a465f9e5"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f436fa1c712cb1aaaa8fc833c07838b1ba7b719958d11540a758ec74152c500d"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "3d86ad16ef6415647d2d7cc54f68f9c5cac630eaf034f6362db9a6136ae1e6e7"
 metafile = true
@@ -4662,11 +4663,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7b00c2657fd545091480fbc7e48a2fe4be6e2bbe0711843a0328c969b0b7d97"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "c7faa4bd63a6e637652af59586596203726ce2f76d4bb22343bdc1bcccb446c0"
 metafile = true
 
 [[files]]
