@@ -4238,7 +4238,7 @@ hash = "cfc933ea62230cdf1a43e6177f5a824d36138411f386a23266fa0b6d5cddced9"
 
 [[files]]
 file = "mods/SpiritSMP-Extras.jar"
-hash = "061db24b1df43020b34f069b9975a865545e330f5f69888e4d88936b28e0aa9a"
+hash = "1f1546612a4c2f4fd66cbe6ef058cc7bb8607d3d4535e2bb28da339414db5655"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -4456,6 +4456,11 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/florum-sporum.pw.toml"
+hash = "66190ca1ec9b26f35f59d88262a3818e687fa7408a55ad8e415900549a672495"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
 metafile = true
@@ -4483,11 +4488,6 @@ metafile = true
 [[files]]
 file = "mods/hopperpots.pw.toml"
 hash = "ba5557214d396aeb7d811eab289802e58fdeb6105c9a4c044ba05ca80dcfba66"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -4532,7 +4532,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
 metafile = true
 
 [[files]]
@@ -4552,7 +4552,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c8f251c513ef442a8cbb3f6cea0428dfe6fee1ed675cd63b363769795cb14024"
+hash = "701573bb3ad4c885af0b6b69957a8129db2d015f70a098479d11fb25a17ee231"
 metafile = true
 
 [[files]]
@@ -4662,7 +4662,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c7b00c2657fd545091480fbc7e48a2fe4be6e2bbe0711843a0328c969b0b7d97"
+hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
 metafile = true
 
 [[files]]
@@ -4683,6 +4683,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
@@ -4707,7 +4712,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
+hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
 
 [[files]]
@@ -4752,7 +4757,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e161b9a506df814e129aa8a4068e5df31941803613c8c9d3ffbd5ef4fd46d5f2"
+hash = "23583f71a71e1ae6267be9a09b48418b65291b12d44edc7405e2e232da05ed99"
 metafile = true
 
 [[files]]
@@ -4776,8 +4781,12 @@ hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
 metafile = true
 
 [[files]]
+file = "mods/twigs-4.0.0.jar"
+hash = "e4ada093419cfaf3bd54757b050f3122e5ecb33135296814d478ae3b4658d04c"
+
+[[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "2ce6e647e253fd03494df0cb2f82689e2cd572f1592738bee9908fed200778d3"
+hash = "791e9735ac14a8f33556d2079866574b8e2a4e1c0a2df1dde7730429287af80f"
 metafile = true
 
 [[files]]
