@@ -13,10 +13,6 @@ file = "config/item_obliterator.json5"
 hash = "98f5e1c477e3b281b2b67300df476718921f5ed983dc5a0104064928ac1c7288"
 
 [[files]]
-file = "config/overflow.json"
-hash = "494b10348b2de26178336bcf0d7812593c8c08c8e6652d201a85f57ccb1225ca"
-
-[[files]]
 file = "config/quickerconnectbutton.json5"
 hash = "1d9492bf135da9ab3c44130c083b2737e6289e1141c90c99c78d55e1b897cf8a"
 
@@ -4411,6 +4407,11 @@ hash = "f37f04192a577eb70673df34e2e73ccef962443f913e38fd6bcb21a0a465f9e5"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "a38b57a5cd96b43ddcbea84ba99007113c320b85858051929fae363c3d171ea4"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "f436fa1c712cb1aaaa8fc833c07838b1ba7b719958d11540a758ec74152c500d"
 metafile = true
@@ -4463,6 +4464,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "095caa260713aae3cb72d0c1e97a8e361896011bfe84870753c738bbce8bc32a"
 metafile = true
 
 [[files]]
