@@ -4273,7 +4273,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "a7c083cdfd0a94c22a4ed744a234a4a6e52b23d1d497d944db004070c5e97768"
+hash = "bcfa8fdf35a97b86b0123217fbbc965b539afee2a065b4cdfa03617de58291ef"
 metafile = true
 
 [[files]]
@@ -4427,7 +4427,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "78acc77e4af427633a77aaca8d5abf573531f54541341670cbe9876881de558a"
+hash = "f43d78d9dae9ea2554505980be12a558aafafe43845291318298a2f7f565a61a"
 metafile = true
 
 [[files]]
@@ -4612,7 +4612,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
+hash = "3cce60b7d7bb63fa7964074693376aee924c092f49d7e49b96ebf6d4dcdb8efc"
 metafile = true
 
 [[files]]
@@ -4707,7 +4707,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "8542c20d97dd6be6be944bd55c03c14cdc333c0f648b2ce430f15cecfe1ba071"
+hash = "2239a0d48e9fb47353c4a3d93bc0f151b453dab5cec482b0096568eae80b41e5"
 metafile = true
 
 [[files]]
