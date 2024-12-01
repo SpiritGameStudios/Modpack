@@ -4721,6 +4721,11 @@ hash = "973e7f7f8d2397cce4e1cec393532bf34ec1107eee902b9c2120f9e95d27c050"
 metafile = true
 
 [[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "c2406f82fdcc0c2d8d385b15ff3f8bff7217a38c971b6117bb80f0f306864f13"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
