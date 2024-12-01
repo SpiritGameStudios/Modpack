@@ -4332,12 +4332,12 @@ metafile = true
 
 [[files]]
 file = "mods/charm-forked.pw.toml"
-hash = "7896337fa3f6b4b812290c7a92c80f154f46831f3c4cbe81d03a3c6690bc49cf"
+hash = "3ed31c968613656b272339c7904369003421766f7e9edae58ef85f374206192e"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
+hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
 metafile = true
 
 [[files]]
@@ -4382,7 +4382,7 @@ metafile = true
 
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
-hash = "145f4506893619ac0e8d1d9b198b6a1a0c9c84f3621acb6060f4c1ad8a09be4f"
+hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
 metafile = true
 
 [[files]]
@@ -4437,12 +4437,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -4452,7 +4452,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "4cb8b6866adcdf034385db5c655ca7d5b89eefdee65711a6814dcaba45fc4639"
+hash = "f90d8861943cf1f0bede4e9db3b05fe399a21a945ac2df1c46960065be0d19f6"
 metafile = true
 
 [[files]]
@@ -4472,7 +4472,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "095caa260713aae3cb72d0c1e97a8e361896011bfe84870753c738bbce8bc32a"
+hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
 metafile = true
 
 [[files]]
@@ -4482,7 +4482,7 @@ metafile = true
 
 [[files]]
 file = "mods/goated.pw.toml"
-hash = "d8305d23d0c26138fbe7c3d1dc50830b739a93deca1ea31ba1c508a7c8c4d7b9"
+hash = "a963bee0a147ca9d2ebc87ee009db9aa505ceba3a9857d857168fd56d637cc7c"
 metafile = true
 
 [[files]]
@@ -4562,7 +4562,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "aed8ca71035569a5b02af4f3217d8f960ee4759c0c18abe4a8e965315c8ffe80"
+hash = "daecd6a5f53092b68918546c0773592d94f569697a9d827be371d9464f655f18"
 metafile = true
 
 [[files]]
@@ -4707,7 +4707,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "2239a0d48e9fb47353c4a3d93bc0f151b453dab5cec482b0096568eae80b41e5"
+hash = "bed99c818b61c366b32587d0a03a674ccac20f8ff8615f3fbc175491d4bb5198"
 metafile = true
 
 [[files]]
@@ -4717,7 +4717,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "a009edcaf883f0451476279933ff360ba25f49f36acdabdf7ec585a901d82105"
+hash = "973e7f7f8d2397cce4e1cec393532bf34ec1107eee902b9c2120f9e95d27c050"
 metafile = true
 
 [[files]]
@@ -4766,8 +4766,13 @@ hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "c3b058ac648e567825f736d9b7a30803ba26c4a171a930c414a264518e7c8d70"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3503a5bc45325cb49a27fecd1dcb998f77dc9759dd3b78c6a19447d9573421c4"
+hash = "20faa5820b44a56369cc21c459c468c888afaaf17cd927b6fac9a42b1aed4942"
 metafile = true
 
 [[files]]
@@ -4796,7 +4801,7 @@ hash = "e4ada093419cfaf3bd54757b050f3122e5ecb33135296814d478ae3b4658d04c"
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "791e9735ac14a8f33556d2079866574b8e2a4e1c0a2df1dde7730429287af80f"
+hash = "7b723adbdf3e8651e0d1963e9d7b9b5789d1771518547cacf0a2e3ee6acd7700"
 metafile = true
 
 [[files]]

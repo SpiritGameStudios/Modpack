@@ -3,11 +3,11 @@ filename = "goated-1.21-1.4.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/3fNtCy3A/goated-1.21-1.4.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/AEeGdUSj/goated-1.21-1.4.2-fabric.jar"
 hash-format = "sha512"
-hash = "4809b4f7344465982e40ecfa2da7cf73594c9054a6b2d16fc6c0e5cbb92d722a795a75e2485e2612047fb16e7d0d584a821ffe7b4e5d3a3e613176afc434cc46"
+hash = "0741c225ef9469b2f9f5c5a40769a0679e85245861e7e1c8e843aeb20f2dc3812a5289416053583a98d9f023e5369a61c60bcd54e55d74fdd1b904363bd7e959"
 
 [update]
 [update.modrinth]
 mod-id = "L7dBwZPX"
-version = "3fNtCy3A"
+version = "AEeGdUSj"
