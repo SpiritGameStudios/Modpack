@@ -4317,8 +4317,9 @@ hash = "32dee35ccdd03cd6ee7e4066c297e1b6ac2be3190301a39770212cbbebaac586"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups-fabric-2.0.0-rc.5+1.21.1.jar"
-hash = "8d2d64c784cd1f9799741263ecce32fa30ab3fa29ead3ebec02457b56ef6711a"
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "18835c8b6bdc7153c4dee520995e4132e8a4db4aa244e22e640409eb061743a6"
+metafile = true
 
 [[files]]
 file = "mods/brainier-bees.pw.toml"
