@@ -4258,7 +4258,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "f4411a9cb12a9acc4ce3b8dedc21b2e379184128b19dcdffd90a54a3bbea36a2"
+hash = "48ba16252c4d290f2800bf79650a55a4eeb9c3d1eab6d5743e27d0001c8d2cd6"
 metafile = true
 
 [[files]]
@@ -4318,7 +4318,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "18835c8b6bdc7153c4dee520995e4132e8a4db4aa244e22e640409eb061743a6"
+hash = "c8068f1622594378b60729a788a694f7185b63e776a40c4e00cca2f466f487fd"
 metafile = true
 
 [[files]]
@@ -4428,7 +4428,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "f43d78d9dae9ea2554505980be12a558aafafe43845291318298a2f7f565a61a"
+hash = "266e18277d80a22d952feb002febbf3bf2c8c4fcaa8eb78967e7b9411585dbc0"
 metafile = true
 
 [[files]]
@@ -4453,7 +4453,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f90d8861943cf1f0bede4e9db3b05fe399a21a945ac2df1c46960065be0d19f6"
+hash = "df50b3a790c405aeb189190915110e6b8bac3fa67ac7a5a648318fcad110f22e"
 metafile = true
 
 [[files]]
@@ -4473,7 +4473,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
+hash = "e76885945cd82a93ecb6839917ccbabd37597e16dbbd3e5336b56306bbf7ca3a"
 metafile = true
 
 [[files]]
@@ -4543,7 +4543,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
+hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
 metafile = true
 
 [[files]]
@@ -4553,7 +4553,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
+hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
 metafile = true
 
 [[files]]
@@ -4563,7 +4563,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "daecd6a5f53092b68918546c0773592d94f569697a9d827be371d9464f655f18"
+hash = "ec677d9dd3427fbaa7c6fefabb9fe55d579a5558d9484c2cc29b608c4df55ee9"
 metafile = true
 
 [[files]]
@@ -4603,12 +4603,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
+hash = "a1c07d980228d8035bcf55cda9ea515d79e15820e47729c5b9e52d19f581a1cf"
 metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "14f919863b719ef8b7aef93bff975afb7a2c5bf95752ee5d6f8b0f6f3ace0d77"
+hash = "f09eb6dba8a95335c681d1d3931beceded04cf2c70c52eb1ef25a11a04bb3825"
 metafile = true
 
 [[files]]
@@ -4728,7 +4728,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
+hash = "24c7818de226f7076c97d742a4c9b5e9bbf65a4e5bf3ff09d3f186e8e7103efd"
 metafile = true
 
 [[files]]
@@ -4778,7 +4778,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "20faa5820b44a56369cc21c459c468c888afaaf17cd927b6fac9a42b1aed4942"
+hash = "a133040d15e3a0355e72562ce11d5482bf6b3289c5bcdf4f8a7870e7c1103bf8"
 metafile = true
 
 [[files]]
@@ -4807,7 +4807,7 @@ hash = "e4ada093419cfaf3bd54757b050f3122e5ecb33135296814d478ae3b4658d04c"
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "7b723adbdf3e8651e0d1963e9d7b9b5789d1771518547cacf0a2e3ee6acd7700"
+hash = "e8c3b2c3435ba3775710c23138946560c4e5bb1d27fb7b4655d98ecb48875ce0"
 metafile = true
 
 [[files]]
@@ -4822,7 +4822,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "481ee07891029ab927064d9b9aef897b6c4bcde3e0882d8407adf2794a8745ef"
+hash = "190d9fd976e99bbb9ba1b52198baf70244756f21d39ff6ba91c235583a0d1209"
 metafile = true
 
 [[files]]
@@ -4837,7 +4837,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "07508274757975ba6f01da6ff87f28d6fc82abafa6f3d4e0143696379794a6ae"
+hash = "ffcf32caf3dda8f05adb109dc86c477cf1bb768bac6232bc5bcf0d60a7861bcb"
 metafile = true
 
 [[files]]
