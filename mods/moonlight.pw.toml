@@ -3,11 +3,11 @@ filename = "moonlight-1.21-2.17.11-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/EU6XdmUU/moonlight-1.21-2.17.11-fabric.jar"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/ybmJOyxF/moonlight-1.21-2.17.11-fabric.jar"
 hash-format = "sha512"
-hash = "43f7835e156f78f03690698f42ddcf914925dbff1880a1137680b71b1703adcd26abe8177f6bde733108df7e6f1e6cdb208d9555ce2b29092bf8eceefe40953a"
+hash = "3658a3a01f64e451d9d95add9846443437ae633be83d4a20feeb6c87330ffd9e96e90fb1a0d656010fb5c20d25789c48fca426c4cfe9eb8fa40ff42ff9f95fb6"
 
 [update]
 [update.modrinth]
 mod-id = "twkfQtEc"
-version = "EU6XdmUU"
+version = "ybmJOyxF"
