@@ -4243,7 +4243,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
+hash = "6ca6baa75aa712f1274d3986300df1202ecbf90b4a3acb267d146f763ae7ed95"
 metafile = true
 
 [[files]]
@@ -4468,7 +4468,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
@@ -4563,7 +4563,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a7cde2651f8af017ccc637f6b3882000157444d9afa169f7f08ae72c048a399c"
+hash = "4d3e67d1eb08b1d2c64d0190cca6037f941aa38c3b09cf5a385ccc6735d32c16"
 metafile = true
 
 [[files]]
@@ -4574,6 +4574,11 @@ metafile = true
 [[files]]
 file = "mods/moyai.pw.toml"
 hash = "526af01b7bb339fa378a84291fa2f9fb705adcda85af7653d84d2ad43ae4b35a"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "193c03548df0d504fd9884ac47a3492bdf3561d49ad80717a0eba926e38ae8db"
 metafile = true
 
 [[files]]
@@ -4723,7 +4728,7 @@ metafile = true
 
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
-hash = "c2406f82fdcc0c2d8d385b15ff3f8bff7217a38c971b6117bb80f0f306864f13"
+hash = "36427a05afb9e429822c82c87d7f466b826f4911510eaa78534650e42c486b3a"
 metafile = true
 
 [[files]]
