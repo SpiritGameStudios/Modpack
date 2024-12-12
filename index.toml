@@ -4821,26 +4821,6 @@ hash = "2d5315c701ef382d95343d5649a58df994f8e18516cf077df99c2496879f4eed"
 metafile = true
 
 [[files]]
-file = "mods/vanity-aesthetic-armory.pw.toml"
-hash = "edf7415f0625882ed41f9d2e87775117088dd102e37e35daf73751336c003272"
-metafile = true
-
-[[files]]
-file = "mods/vanity-colossal-weapons.pw.toml"
-hash = "3fb8b315c06f11e43c61d8257129ec84095e62cd747ebf39133cd5ff6d52028e"
-metafile = true
-
-[[files]]
-file = "mods/vanity-core.pw.toml"
-hash = "d33c91d5676c37a7ad76bae20efb8b8ab9bc5c8ce898a06ab738858f6f7ec0a9"
-metafile = true
-
-[[files]]
-file = "mods/vanity-deep-forged.pw.toml"
-hash = "0fd7b81592346d4c913f0966f8966e46dc0aa287acfdf863b86168b7a84a5f3b"
-metafile = true
-
-[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
 metafile = true
