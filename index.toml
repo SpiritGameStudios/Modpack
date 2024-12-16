@@ -4532,6 +4532,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "fa0e2391958dee24c36fa05683f556ef5abbefcd39161ca3e8bc464f61835c7b"
 metafile = true
@@ -4694,11 +4699,6 @@ metafile = true
 [[files]]
 file = "mods/rounded_mod.pw.toml"
 hash = "976bfd8d4cdd96995adf4fd60659eabfcecee721c83c11119ad5287d0d1ed2d2"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
 metafile = true
 
 [[files]]
