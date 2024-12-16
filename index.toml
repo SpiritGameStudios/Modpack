@@ -4229,6 +4229,10 @@ file = "datapacks/fix/pack.mcmeta"
 hash = "d59c0e8902b1617c03ba3b2f744fb7e08acb884d1a1ae83eb573f3a749f6ab68"
 
 [[files]]
+file = "mods/Bombastic.jar"
+hash = "2782980311c11389cad2724fde46ec03d5430329e2f14702c80bc45f193d41cb"
+
+[[files]]
 file = "mods/Overflow.jar"
 hash = "c3aec29b96ccdda09ca25b8560e7f53990ff8980ff0c61740a4ef3ad3617784b"
 
@@ -4309,11 +4313,6 @@ metafile = true
 [[files]]
 file = "mods/blast.pw.toml"
 hash = "2a664bb1c8ca299e73d60100cf1662ad8f7d1ef6ccbe549aa445ec7deea08a2a"
-metafile = true
-
-[[files]]
-file = "mods/bombastic.pw.toml"
-hash = "32dee35ccdd03cd6ee7e4066c297e1b6ac2be3190301a39770212cbbebaac586"
 metafile = true
 
 [[files]]
