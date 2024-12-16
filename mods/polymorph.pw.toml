@@ -1,13 +1,13 @@
 name = "Polymorph"
-filename = "polymorph-fabric-1.0.6+1.21.1.jar"
+filename = "polymorph-fabric-1.0.7+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/AGMyBSJE/polymorph-fabric-1.0.6%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/j4jPy88h/polymorph-fabric-1.0.7%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "d0cc741ce182dc04ed591cd4f684d7bca0bd8f272812498e40e93f7a23013f0dd85798f60a14a15889ed96cc6cb09d98181bd311c211216b8e049cb2828695a5"
+hash = "f31ff346702d2129dabcc13c33dcbae5c7111e54ad6f6d5a152bc82e5664ce628d7baaf8e2a217de32742e74913faf7231d697b3ac264d450ba79ed8d362ab53"
 
 [update]
 [update.modrinth]
 mod-id = "tagwiZkJ"
-version = "AGMyBSJE"
+version = "j4jPy88h"

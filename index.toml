@@ -4463,7 +4463,7 @@ metafile = true
 
 [[files]]
 file = "mods/florum-sporum.pw.toml"
-hash = "66190ca1ec9b26f35f59d88262a3818e687fa7408a55ad8e415900549a672495"
+hash = "6002672e71e63125039f69bd7809a5a29bbae945323ee543f7cf5809baa55b1b"
 metafile = true
 
 [[files]]
@@ -4488,7 +4488,7 @@ metafile = true
 
 [[files]]
 file = "mods/hollow.pw.toml"
-hash = "48ca441abd33660936f6b5cebccc2bcbb82458715885982fe336ed616c915d5e"
+hash = "92644b39abf6c79dc5241911bce9214fab7df7b7b8e356be63a7c4e0acc95e79"
 metafile = true
 
 [[files]]
@@ -4513,7 +4513,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "67ad5c2acf84ac2657b079a341b2771012d5050cbd900f423ded03404efc5de2"
+hash = "810502d11bcaa9ef80bb54185880131ebabbdd208f40cd1f7541ee4643c71749"
 metafile = true
 
 [[files]]
@@ -4653,7 +4653,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "40e562a5740782fcade12bf5f370da4a1b01692868946eafb0252237e73c9a90"
+hash = "23e0af393ab46c7f332fe0505893bfa869f2434008b8edc5dfb07327b21d02f8"
 metafile = true
 
 [[files]]
