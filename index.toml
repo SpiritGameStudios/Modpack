@@ -4487,9 +4487,8 @@ hash = "a963bee0a147ca9d2ebc87ee009db9aa505ceba3a9857d857168fd56d637cc7c"
 metafile = true
 
 [[files]]
-file = "mods/hollow.pw.toml"
-hash = "54bb8e7f1b31f216a57d0ffd62ceec79df7a547e1033bc06ccbacd978e779c8b"
-metafile = true
+file = "mods/hollow-1.3.0-1.3.0.jar"
+hash = "4d1e27d0ffed49a174a339a4527043b89047c3deb1c18290a33ac69a7a22e3a4"
 
 [[files]]
 file = "mods/honque.pw.toml"
