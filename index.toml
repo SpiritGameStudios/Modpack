@@ -4357,6 +4357,11 @@ hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
+file = "mods/combat-amenities.pw.toml"
+hash = "f0a47495d9bb2f6a033049d47b91072497ef30deb34ea42f74acf4b1d1cbec4f"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
 metafile = true
@@ -4637,6 +4642,11 @@ hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "910973a8c30c886a71ec70b6b3b89980ba8944a0c2246de48ffdc34e37ba60ca"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
@@ -4823,6 +4833,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "8b108929d7d02119ed04797816f2cf34984cfa64ffe101828717ddd1ec867c22"
 metafile = true
 
 [[files]]
