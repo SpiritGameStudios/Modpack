@@ -1,0 +1,13 @@
+name = "Bombastic"
+filename = "Bombastic.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4PhSSMsR/versions/AA5ltbCi/Bombastic.jar"
+hash-format = "sha512"
+hash = "c03a64948a512e275c7432cbbea453cf99b08171e629d1da034b2cc8e2dc26184309f440e5440a107dd89f3aac42bccb8846bd746cbaf5cf1a6c5a7f21495418"
+
+[update]
+[update.modrinth]
+mod-id = "4PhSSMsR"
+version = "AA5ltbCi"
